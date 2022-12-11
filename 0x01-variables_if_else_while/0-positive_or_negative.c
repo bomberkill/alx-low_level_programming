@@ -3,7 +3,11 @@
 #include <time.h>
 /* more headers goes there */
 
-/* determine type of number*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
