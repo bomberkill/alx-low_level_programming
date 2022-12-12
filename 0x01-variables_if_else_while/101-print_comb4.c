@@ -10,7 +10,8 @@
 
 int main(void)
 {
-	int a,z,s;
+	int a, z, s;
+
 	for (a = '0'; a < '8'; a++)
 	{
 		for (z = a + 1; z < '9'; z++)
