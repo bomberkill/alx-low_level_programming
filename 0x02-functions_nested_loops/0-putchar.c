@@ -14,6 +14,13 @@ int _putchar(char c)
 }
 int main (void)
 {
-	printf(_putchar('r'),_putchar('a'), _putchar('h'), _putchar('c'), _putchar('t'), _putchar('u'), _putchar('p'), _putchar('_'));
+	_putchar('_');
+        _putchar('p');
+        _putchar('u');
+        _putchar('t');
+        _putchar('c');
+        _putchar('h');
+        _putchar('a');
+        _putchar('r');
 	return(0);
 }
