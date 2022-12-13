@@ -4,14 +4,18 @@
 
 /**
  * _putchar - writes the character mot to stdout
- * @mot: The character to print
+ * @c: The character to print
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void) 
 {
-/*return 0 (success)*/
 	char mot[8] = "_putchar";
 	int i;
 
