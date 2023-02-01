@@ -1,3 +1,4 @@
+
 /*
  * File: 8-sum_listint.c
  */
@@ -22,4 +23,5 @@ int sum_listint(listint_t *head)
 		head = head->next;
 	}
 
-	ret
+	return (sum);
+}
